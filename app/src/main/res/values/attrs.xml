@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="KeyboardTheme">
+        <attr name="keyboardBackground" format="color" />
+        <attr name="keyColor" format="color" />
+        <attr name="specialKeyColor" format="color" />
+        <attr name="keyTextColor" format="color" />
+        <attr name="keyHintColor" format="color" />
+        <attr name="accentColor" format="color" />
+        <attr name="popupColor" format="color" />
+        <attr name="popupTextColor" format="color" />
+        <attr name="toolbarColor" format="color" />
+        <attr name="suggestionColor" format="color" />
+        <attr name="pressedOverlay" format="color" />
+        <attr name="strokeColor" format="color" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,12 @@
+Keyline is a free and open-source Android keyboard with customizable layouts, themes and background images.
+
+Features:
+• Persian, English, Arabic, German, Spanish, French, Russian and Turkish layouts
+• Themes, glass-style keys and your own background image
+• Toolbar that gives way to word suggestions while you type
+• One-handed and floating modes that you can resize by dragging
+• Adjustable vibration strength, key height and key opacity
+• Clipboard history, emoji panel, text editing pad and translator
+• No ads, no analytics and no tracking
+
+The translator sends the text you choose to translate to the Google Translate web service. Voice typing uses the speech recognizer installed on your device.

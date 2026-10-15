@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="clip_filter_all">Все</string>
+    <string name="clip_filter_pinned">Закреплённые</string>
+    <string name="clip_filter_links">Ссылки</string>
+    <string name="cd_clear_unpinned">Очистить незакреплённые</string>
+    <string name="clip_empty">Буфер обмена пуст</string>
+    <string name="clip_empty_hint">Скопированный текст появится здесь</string>
+    <string name="clip_deleted">Удалено</string>
+    <string name="clip_undo">Отменить</string>
+    <string name="clip_action_pin">Закрепить</string>
+    <string name="clip_action_unpin">Открепить</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="cd_close">Закрыть</string>
+    <string name="cd_pin">Закрепить</string>
+    <string name="clip_time_now">Сейчас</string>
+    <string name="clip_time_min">%1$d мин назад</string>
+    <string name="clip_time_hour">%1$d ч назад</string>
+    <string name="clip_time_day">%1$d дн. назад</string>
+</resources>

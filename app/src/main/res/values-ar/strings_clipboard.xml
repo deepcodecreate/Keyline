@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="clip_filter_all">الكل</string>
+    <string name="clip_filter_pinned">المثبّتة</string>
+    <string name="clip_filter_links">الروابط</string>
+    <string name="cd_clear_unpinned">مسح غير المثبّتة</string>
+    <string name="clip_empty">الحافظة فارغة</string>
+    <string name="clip_empty_hint">ستظهر النصوص المنسوخة هنا</string>
+    <string name="clip_deleted">تم الحذف</string>
+    <string name="clip_undo">تراجع</string>
+    <string name="clip_action_pin">تثبيت</string>
+    <string name="clip_action_unpin">إلغاء التثبيت</string>
+    <string name="delete">حذف</string>
+    <string name="cancel">إلغاء</string>
+    <string name="cd_close">إغلاق</string>
+    <string name="cd_pin">تثبيت</string>
+    <string name="clip_time_now">الآن</string>
+    <string name="clip_time_min">منذ %1$d د</string>
+    <string name="clip_time_hour">منذ %1$d س</string>
+    <string name="clip_time_day">منذ %1$d ي</string>
+</resources>

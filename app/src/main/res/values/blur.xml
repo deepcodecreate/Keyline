@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="glass_surface">#EEE9E7EF</color>
+
+    <style name="ThemeOverlay.Keyline.Dialog" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+        <item name="colorSurfaceContainerHigh">@color/glass_surface</item>
+        <item name="android:backgroundDimAmount">0.25</item>
+    </style>
+
+    <style name="Keyline.DialogOverlay" parent="ThemeOverlay.Keyline.Dialog" />
+</resources>

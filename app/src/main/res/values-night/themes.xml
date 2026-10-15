@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Keyline" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#BDC2FF</item>
+        <item name="colorOnPrimary">#1B2491</item>
+        <item name="colorPrimaryContainer">#343EA6</item>
+        <item name="colorOnPrimaryContainer">#E1E3FF</item>
+        <item name="colorSecondary">#C3C5DD</item>
+        <item name="colorOnSecondary">#2D2F42</item>
+        <item name="colorSecondaryContainer">#434559</item>
+        <item name="colorOnSecondaryContainer">#DFE1F9</item>
+        <item name="colorTertiary">#E9B9D3</item>
+        <item name="colorOnTertiary">#46263A</item>
+        <item name="colorTertiaryContainer">#5F3C52</item>
+        <item name="colorOnTertiaryContainer">#FFD8EC</item>
+        <item name="colorError">#FFB4AB</item>
+        <item name="colorSurface">#131318</item>
+        <item name="android:colorBackground">#131318</item>
+        <item name="colorOnSurface">#E4E1E9</item>
+        <item name="colorSurfaceVariant">#46464F</item>
+        <item name="colorOnSurfaceVariant">#C7C5D0</item>
+        <item name="colorSurfaceContainerLowest">#0E0E13</item>
+        <item name="colorSurfaceContainerLow">#1B1B21</item>
+        <item name="colorSurfaceContainer">#1F1F25</item>
+        <item name="colorSurfaceContainerHigh">#2A292F</item>
+        <item name="colorSurfaceContainerHighest">#35343A</item>
+        <item name="colorOutline">#918F9A</item>
+        <item name="colorOutlineVariant">#46464F</item>
+        <item name="materialAlertDialogTheme">@style/Keyline.DialogOverlay</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">#131318</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Kb.Blue" parent="Kb.Dark">
+        <item name="keyboardBackground">#0E1B2E</item>
+        <item name="keyColor">#1B3A63</item>
+        <item name="specialKeyColor">#142844</item>
+        <item name="accentColor">#8AB4F8</item>
+        <item name="keyTextColor">#E8F0FE</item>
+        <item name="popupColor">#1B3A63</item>
+        <item name="popupTextColor">#E8F0FE</item>
+        <item name="toolbarColor">#0E1B2E</item>
+        <item name="suggestionColor">#0E1B2E</item>
+    </style>
+
+    <style name="Kb.Green" parent="Kb.Dark">
+        <item name="keyboardBackground">#0E2218</item>
+        <item name="keyColor">#1B4332</item>
+        <item name="specialKeyColor">#143226</item>
+        <item name="accentColor">#81C995</item>
+        <item name="keyTextColor">#E6F4EA</item>
+        <item name="popupColor">#1B4332</item>
+        <item name="popupTextColor">#E6F4EA</item>
+        <item name="toolbarColor">#0E2218</item>
+        <item name="suggestionColor">#0E2218</item>
+    </style>
+
+    <style name="Kb.Purple" parent="Kb.Dark">
+        <item name="keyboardBackground">#1C1426</item>
+        <item name="keyColor">#3C2A52</item>
+        <item name="specialKeyColor">#2A1C3C</item>
+        <item name="accentColor">#D0A6F0</item>
+        <item name="keyTextColor">#F6EDFC</item>
+        <item name="popupColor">#3C2A52</item>
+        <item name="popupTextColor">#F6EDFC</item>
+        <item name="toolbarColor">#1C1426</item>
+        <item name="suggestionColor">#1C1426</item>
+    </style>
+
+    <style name="Kb.Orange" parent="Kb.Dark">
+        <item name="keyboardBackground">#26180C</item>
+        <item name="keyColor">#4A3014</item>
+        <item name="specialKeyColor">#35220E</item>
+        <item name="accentColor">#F9AB00</item>
+        <item name="keyTextColor">#FFF4E5</item>
+        <item name="popupColor">#4A3014</item>
+        <item name="popupTextColor">#FFF4E5</item>
+        <item name="toolbarColor">#26180C</item>
+        <item name="suggestionColor">#26180C</item>
+    </style>
+
+    <style name="Kb.Rose" parent="Kb.Dark">
+        <item name="keyboardBackground">#260F14</item>
+        <item name="keyColor">#4A2230</item>
+        <item name="specialKeyColor">#351820</item>
+        <item name="accentColor">#F28B82</item>
+        <item name="keyTextColor">#FDECEE</item>
+        <item name="popupColor">#4A2230</item>
+        <item name="popupTextColor">#FDECEE</item>
+        <item name="toolbarColor">#260F14</item>
+        <item name="suggestionColor">#260F14</item>
+    </style>
+
+    <style name="Kb.Teal" parent="Kb.Dark">
+        <item name="keyboardBackground">#0B211F</item>
+        <item name="keyColor">#164E49</item>
+        <item name="specialKeyColor">#103A36</item>
+        <item name="accentColor">#80CBC4</item>
+        <item name="keyTextColor">#E0F2F1</item>
+        <item name="popupColor">#164E49</item>
+        <item name="popupTextColor">#E0F2F1</item>
+        <item name="toolbarColor">#0B211F</item>
+        <item name="suggestionColor">#0B211F</item>
+    </style>
+
+    <style name="Kb.Cyan" parent="Kb.Dark">
+        <item name="keyboardBackground">#0C2024</item>
+        <item name="keyColor">#16434A</item>
+        <item name="specialKeyColor">#10353B</item>
+        <item name="accentColor">#80DEEA</item>
+        <item name="keyTextColor">#E0F7FA</item>
+        <item name="popupColor">#16434A</item>
+        <item name="popupTextColor">#E0F7FA</item>
+        <item name="toolbarColor">#0C2024</item>
+        <item name="suggestionColor">#0C2024</item>
+    </style>
+
+    <style name="Kb.Indigo" parent="Kb.Dark">
+        <item name="keyboardBackground">#17172B</item>
+        <item name="keyColor">#303F75</item>
+        <item name="specialKeyColor">#252F59</item>
+        <item name="accentColor">#9FA8DA</item>
+        <item name="keyTextColor">#E8EAF6</item>
+        <item name="popupColor">#303F75</item>
+        <item name="popupTextColor">#E8EAF6</item>
+        <item name="toolbarColor">#17172B</item>
+        <item name="suggestionColor">#17172B</item>
+    </style>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="emoji_recents">Недавние</string>
+    <string name="emoji_smileys">Смайлы</string>
+    <string name="emoji_people">Люди</string>
+    <string name="emoji_animals">Животные</string>
+    <string name="emoji_food">Еда</string>
+    <string name="emoji_activity">Активность</string>
+    <string name="emoji_travel">Путешествия</string>
+    <string name="emoji_objects">Предметы</string>
+    <string name="emoji_symbols">Символы</string>
+    <string name="emoji_flags">Флаги</string>
+    <string name="emoji_empty">Нет совпадений</string>
+    <string name="emoji_search_hint">Поиск эмодзи</string>
+    <string name="back_letters">АБВ</string>
+    <string name="cd_backspace">Стереть</string>
+</resources>

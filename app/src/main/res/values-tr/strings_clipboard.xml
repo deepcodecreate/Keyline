@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="clip_filter_all">Tümü</string>
+    <string name="clip_filter_pinned">Sabitlenenler</string>
+    <string name="clip_filter_links">Bağlantılar</string>
+    <string name="cd_clear_unpinned">Sabitlenmeyenleri temizle</string>
+    <string name="clip_empty">Pano boş</string>
+    <string name="clip_empty_hint">Kopyalanan metinler burada görünür</string>
+    <string name="clip_deleted">Silindi</string>
+    <string name="clip_undo">Geri al</string>
+    <string name="clip_action_pin">Sabitle</string>
+    <string name="clip_action_unpin">Sabitlemeyi kaldır</string>
+    <string name="delete">Sil</string>
+    <string name="cancel">İptal</string>
+    <string name="cd_close">Kapat</string>
+    <string name="cd_pin">Sabitle</string>
+    <string name="clip_time_now">Şimdi</string>
+    <string name="clip_time_min">%1$d dk önce</string>
+    <string name="clip_time_hour">%1$d sa önce</string>
+    <string name="clip_time_day">%1$d g önce</string>
+</resources>

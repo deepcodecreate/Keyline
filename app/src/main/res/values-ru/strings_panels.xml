@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="menu_one_hand">Одной рукой</string>
+    <string name="menu_text_edit">Правка текста</string>
+    <string name="menu_floating">Плавающая</string>
+    <string name="menu_theme">Тема</string>
+    <string name="menu_emoji">Эмодзи</string>
+    <string name="menu_next_language">Следующий язык</string>
+    <string name="menu_credentials">Пароли</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="te_home">Начало</string>
+    <string name="te_end">Конец</string>
+    <string name="te_select">Выделить</string>
+    <string name="te_back">АБВ</string>
+    <string name="te_up">Вверх</string>
+    <string name="te_down">Вниз</string>
+    <string name="te_left">Влево</string>
+    <string name="te_right">Вправо</string>
+    <string name="cd_select_all">Выделить всё</string>
+    <string name="cd_cut">Вырезать</string>
+    <string name="cd_copy">Копировать</string>
+    <string name="cd_paste">Вставить</string>
+</resources>

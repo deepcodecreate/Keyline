@@ -1,0 +1,154 @@
+{
+  "id": "symbols",
+  "name": "=\\<",
+  "locale": "en",
+  "direction": "ltr",
+  "pages": {
+    "main": [
+      [
+        {
+          "label": "~"
+        },
+        {
+          "label": "`"
+        },
+        {
+          "label": "|"
+        },
+        {
+          "label": "•"
+        },
+        {
+          "label": "√"
+        },
+        {
+          "label": "π"
+        },
+        {
+          "label": "÷"
+        },
+        {
+          "label": "×"
+        },
+        {
+          "label": "¶"
+        },
+        {
+          "label": "∆"
+        }
+      ],
+      [
+        {
+          "label": "£"
+        },
+        {
+          "label": "¢"
+        },
+        {
+          "label": "€"
+        },
+        {
+          "label": "¥"
+        },
+        {
+          "label": "^"
+        },
+        {
+          "label": "°"
+        },
+        {
+          "label": "="
+        },
+        {
+          "label": "{"
+        },
+        {
+          "label": "}"
+        },
+        {
+          "label": "\\"
+        }
+      ],
+      [
+        {
+          "action": "to_numbers",
+          "label": "123",
+          "width": 1.35
+        },
+        {
+          "label": "©"
+        },
+        {
+          "label": "®"
+        },
+        {
+          "label": "™"
+        },
+        {
+          "label": "✓"
+        },
+        {
+          "label": "["
+        },
+        {
+          "label": "]"
+        },
+        {
+          "label": "<"
+        },
+        {
+          "label": ">"
+        },
+        {
+          "action": "backspace",
+          "width": 1.35
+        }
+      ]
+    ]
+  },
+  "bottom": [
+    {
+      "action": "to_letters",
+      "label": "ABC",
+      "width": 1.3
+    },
+    {
+      "action": "to_symbols2",
+      "label": "=\\<",
+      "width": 0.9
+    },
+    {
+      "label": ",",
+      "width": 0.8,
+      "popup": [
+        ";",
+        ":"
+      ]
+    },
+    {
+      "action": "space",
+      "width": 3.0
+    },
+    {
+      "label": ".",
+      "width": 0.8,
+      "popup": [
+        "…",
+        "?",
+        "!"
+      ]
+    },
+    {
+      "label": "?",
+      "width": 0.85,
+      "popup": [
+        "!",
+        "…"
+      ]
+    },
+    {
+      "action": "enter",
+      "width": 1.35
+    }
+  ]
+}

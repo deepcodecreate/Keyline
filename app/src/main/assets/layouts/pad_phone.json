@@ -1,0 +1,18 @@
+{
+  "schema": 2,
+  "kind": "pad",
+  "id": "pad_phone",
+  "name": "Phone pad",
+  "locale": "en",
+  "direction": "ltr",
+  "hasShift": false,
+  "digits": "latin",
+  "pages": {
+    "main": [
+      [{"label":"1"},{"label":"2"},{"label":"3"},{"action":"backspace","style":"special"}],
+      [{"label":"4"},{"label":"5"},{"label":"6"},{"label":"+","style":"special","popup":["(",")","/","."]}],
+      [{"label":"7"},{"label":"8"},{"label":"9"},{"label":"-","style":"special","popup":[".",",",";"]}],
+      [{"label":"*","style":"special","popup":[",",";"]},{"label":"0","popup":["+"]},{"label":"#","style":"special"},{"action":"enter","style":"accent"}]
+    ]
+  }
+}

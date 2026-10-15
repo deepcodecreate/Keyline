@@ -1,0 +1,150 @@
+{
+  "id": "numbers",
+  "name": "123",
+  "locale": "en",
+  "direction": "ltr",
+  "pages": {
+    "main": [
+      [
+        {
+          "label": "1"
+        },
+        {
+          "label": "2"
+        },
+        {
+          "label": "3"
+        },
+        {
+          "label": "4"
+        },
+        {
+          "label": "5"
+        },
+        {
+          "label": "6"
+        },
+        {
+          "label": "7"
+        },
+        {
+          "label": "8"
+        },
+        {
+          "label": "9"
+        },
+        {
+          "label": "0"
+        }
+      ],
+      [
+        {
+          "label": "@"
+        },
+        {
+          "label": "#"
+        },
+        {
+          "label": "$"
+        },
+        {
+          "label": "%"
+        },
+        {
+          "label": "&"
+        },
+        {
+          "label": "-"
+        },
+        {
+          "label": "+"
+        },
+        {
+          "label": "("
+        },
+        {
+          "label": ")"
+        },
+        {
+          "label": "/"
+        }
+      ],
+      [
+        {
+          "action": "to_symbols",
+          "label": "=\\<",
+          "width": 1.35
+        },
+        {
+          "label": "*"
+        },
+        {
+          "label": "\""
+        },
+        {
+          "label": "'"
+        },
+        {
+          "label": ":"
+        },
+        {
+          "label": ";"
+        },
+        {
+          "label": "!"
+        },
+        {
+          "label": "?"
+        },
+        {
+          "action": "backspace",
+          "width": 1.35
+        }
+      ]
+    ]
+  },
+  "bottom": [
+    {
+      "action": "to_letters",
+      "label": "ABC",
+      "width": 1.35
+    },
+    {
+      "action": "lang",
+      "width": 0.75
+    },
+    {
+      "label": ",",
+      "width": 0.75,
+      "popup": [
+        ";",
+        ":"
+      ]
+    },
+    {
+      "action": "space",
+      "width": 3.3
+    },
+    {
+      "label": ".",
+      "width": 0.75,
+      "popup": [
+        "…",
+        "?",
+        "!"
+      ]
+    },
+    {
+      "label": "?",
+      "width": 0.75,
+      "popup": [
+        "!",
+        "…"
+      ]
+    },
+    {
+      "action": "enter",
+      "width": 1.35
+    }
+  ]
+}

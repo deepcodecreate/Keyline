@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="menu_one_hand">Une main</string>
+    <string name="menu_text_edit">Modifier le texte</string>
+    <string name="menu_floating">Flottant</string>
+    <string name="menu_theme">Thème</string>
+    <string name="menu_emoji">Emoji</string>
+    <string name="menu_next_language">Langue suivante</string>
+    <string name="menu_credentials">Mots de passe</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="te_home">Début</string>
+    <string name="te_end">Fin</string>
+    <string name="te_select">Sélectionner</string>
+    <string name="te_back">ABC</string>
+    <string name="te_up">Haut</string>
+    <string name="te_down">Bas</string>
+    <string name="te_left">Gauche</string>
+    <string name="te_right">Droite</string>
+    <string name="cd_select_all">Tout sélectionner</string>
+    <string name="cd_cut">Couper</string>
+    <string name="cd_copy">Copier</string>
+    <string name="cd_paste">Coller</string>
+</resources>

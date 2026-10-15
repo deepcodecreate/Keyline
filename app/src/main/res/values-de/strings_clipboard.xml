@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="clip_filter_all">Alle</string>
+    <string name="clip_filter_pinned">Angeheftet</string>
+    <string name="clip_filter_links">Links</string>
+    <string name="cd_clear_unpinned">Nicht angeheftete löschen</string>
+    <string name="clip_empty">Die Zwischenablage ist leer</string>
+    <string name="clip_empty_hint">Kopierter Text erscheint hier</string>
+    <string name="clip_deleted">Gelöscht</string>
+    <string name="clip_undo">Rückgängig</string>
+    <string name="clip_action_pin">Anheften</string>
+    <string name="clip_action_unpin">Lösen</string>
+    <string name="delete">Löschen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="cd_close">Schließen</string>
+    <string name="cd_pin">Anheften</string>
+    <string name="clip_time_now">Gerade eben</string>
+    <string name="clip_time_min">vor %1$d Min.</string>
+    <string name="clip_time_hour">vor %1$d Std.</string>
+    <string name="clip_time_day">vor %1$d T.</string>
+</resources>

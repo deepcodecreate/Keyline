@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="emoji_recents">Récents</string>
+    <string name="emoji_smileys">Smileys</string>
+    <string name="emoji_people">Personnes</string>
+    <string name="emoji_animals">Animaux</string>
+    <string name="emoji_food">Nourriture</string>
+    <string name="emoji_activity">Activités</string>
+    <string name="emoji_travel">Voyages</string>
+    <string name="emoji_objects">Objets</string>
+    <string name="emoji_symbols">Symboles</string>
+    <string name="emoji_flags">Drapeaux</string>
+    <string name="emoji_empty">Aucun résultat</string>
+    <string name="emoji_search_hint">Rechercher un emoji</string>
+    <string name="back_letters">ABC</string>
+    <string name="cd_backspace">Effacer</string>
+</resources>

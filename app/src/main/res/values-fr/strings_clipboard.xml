@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="clip_filter_all">Tout</string>
+    <string name="clip_filter_pinned">Épinglés</string>
+    <string name="clip_filter_links">Liens</string>
+    <string name="cd_clear_unpinned">Effacer les non épinglés</string>
+    <string name="clip_empty">Le presse-papiers est vide</string>
+    <string name="clip_empty_hint">Le texte copié apparaîtra ici</string>
+    <string name="clip_deleted">Supprimé</string>
+    <string name="clip_undo">Annuler</string>
+    <string name="clip_action_pin">Épingler</string>
+    <string name="clip_action_unpin">Désépingler</string>
+    <string name="delete">Supprimer</string>
+    <string name="cancel">Annuler</string>
+    <string name="cd_close">Fermer</string>
+    <string name="cd_pin">Épingler</string>
+    <string name="clip_time_now">À l’instant</string>
+    <string name="clip_time_min">il y a %1$d min</string>
+    <string name="clip_time_hour">il y a %1$d h</string>
+    <string name="clip_time_day">il y a %1$d j</string>
+</resources>

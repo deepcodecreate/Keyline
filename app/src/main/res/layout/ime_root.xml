@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.keyline.ime.view.ImeRoot xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ime_root"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/card"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.keyline.ime.view.FloatHandle
+            android:id="@+id/float_handle"
+            android:layout_width="match_parent"
+            android:layout_height="22dp"
+            android:visibility="gone" />
+
+        <FrameLayout
+            android:id="@+id/top_switcher"
+            android:layout_width="match_parent"
+            android:layout_height="42dp">
+
+            <com.keyline.ime.view.ToolbarView
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <com.keyline.ime.view.SuggestionBar
+                android:id="@+id/suggestions"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" />
+
+            <com.keyline.ime.view.CredentialSuggestionBar
+                android:id="@+id/credential_suggestions"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" />
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/banner"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:gravity="center_vertical"
+            android:paddingStart="12dp"
+            android:paddingEnd="12dp"
+            android:textSize="14sp"
+            android:visibility="gone" />
+
+        <FrameLayout
+            android:id="@+id/host"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <com.keyline.ime.view.KeyboardView
+                android:id="@+id/keyboard"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <com.keyline.ime.emoji.EmojiPanel
+                android:id="@+id/emoji"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" />
+
+            <com.keyline.ime.clipboard.ClipboardPanel
+                android:id="@+id/clipboard"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" />
+
+            <com.keyline.ime.translate.TranslatePanel
+                android:id="@+id/translate"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" />
+
+            <com.keyline.ime.view.MenuPanel
+                android:id="@+id/menu_panel"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" />
+
+            <com.keyline.ime.view.TextEditPanel
+                android:id="@+id/text_edit"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" />
+        </FrameLayout>
+    </LinearLayout>
+</com.keyline.ime.view.ImeRoot>

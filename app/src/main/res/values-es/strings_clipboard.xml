@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="clip_filter_all">Todo</string>
+    <string name="clip_filter_pinned">Fijados</string>
+    <string name="clip_filter_links">Enlaces</string>
+    <string name="cd_clear_unpinned">Borrar no fijados</string>
+    <string name="clip_empty">El portapapeles está vacío</string>
+    <string name="clip_empty_hint">El texto copiado aparecerá aquí</string>
+    <string name="clip_deleted">Eliminado</string>
+    <string name="clip_undo">Deshacer</string>
+    <string name="clip_action_pin">Fijar</string>
+    <string name="clip_action_unpin">Desfijar</string>
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cd_close">Cerrar</string>
+    <string name="cd_pin">Fijar</string>
+    <string name="clip_time_now">Ahora</string>
+    <string name="clip_time_min">hace %1$d min</string>
+    <string name="clip_time_hour">hace %1$d h</string>
+    <string name="clip_time_day">hace %1$d d</string>
+</resources>

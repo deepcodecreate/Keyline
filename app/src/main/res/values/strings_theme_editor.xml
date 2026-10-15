@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="te_title">تم‌ساز</string>
+    <string name="te_start_from">شروع از تم آماده</string>
+    <string name="te_start_from_sub">رنگ‌ها با یکی از تم‌های آماده پر می‌شوند</string>
+    <string name="te_image_note">وقتی تصویر پس‌زمینه فعال است، پس‌زمینه‌ی نوار ابزار و نوار پیشنهاد شفاف می‌شود تا تصویر دیده شود.</string>
+    <string name="te_sec_surfaces">سطوح</string>
+    <string name="te_sec_keys">دکمه‌ها</string>
+    <string name="te_sec_text">نوشته و آیکن‌ها</string>
+    <string name="te_sec_action">دکمه‌ی اینتر / اکشن</string>
+    <string name="te_sec_accent">تأکید و پاپ‌آپ</string>
+    <string name="te_background">پس‌زمینه کیبورد</string>
+    <string name="te_toolbar">پس‌زمینه نوار ابزار</string>
+    <string name="te_suggestion">پس‌زمینه نوار پیشنهاد</string>
+    <string name="te_key">دکمه‌های معمولی</string>
+    <string name="te_special">دکمه‌های ویژه</string>
+    <string name="te_pressed">افکت لمس دکمه</string>
+    <string name="te_stroke">حاشیه دکمه‌ها</string>
+    <string name="te_text">نوشته دکمه‌ها</string>
+    <string name="te_special_text">نوشته دکمه‌های ویژه</string>
+    <string name="te_hint">نوشته کوچک روی دکمه</string>
+    <string name="te_toolbar_icon">آیکن‌های نوار ابزار</string>
+    <string name="te_suggestion_text">نوشته پیشنهادها</string>
+    <string name="te_action">رنگ دکمه اینتر</string>
+    <string name="te_action_text">نوشته دکمه اینتر</string>
+    <string name="te_accent">رنگ تأکیدی</string>
+    <string name="te_popup">پس‌زمینه پاپ‌آپ</string>
+    <string name="te_popup_text">نوشته پاپ‌آپ</string>
+    <string name="te_auto">خودکار</string>
+    <string name="te_alpha">شفافیت</string>
+    <string name="te_save">ذخیره و اعمال تم</string>
+    <string name="te_saved">تم ذخیره شد</string>
+    <string name="te_discard_title">تغییرات ذخیره نشده</string>
+    <string name="te_discard_msg">از تغییرات صرف‌نظر شود؟</string>
+    <string name="te_discard">صرف‌نظر</string>
+    <string name="te_keep">ادامه ویرایش</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seed">#4A55C9</color>
+    <color name="md_theme_primary">#4A55C9</color>
+    <color name="md_theme_on_primary">#FFFFFF</color>
+    <color name="md_theme_surface">#FBF8FF</color>
+    <color name="md_theme_on_surface">#1B1B21</color>
+    <color name="md_theme_surface_variant">#F5F2FA</color>
+    <color name="md_theme_outline">#C7C5D0</color>
+    <color name="ok">#1E8E3E</color>
+    <color name="warn">#E37400</color>
+    <color name="danger">#D93025</color>
+    <color name="ic_launcher_bg">#4A55C9</color>
+
+    <color name="kb_bg_light">#E8EAED</color>
+    <color name="kb_key_light">#FFFFFF</color>
+    <color name="kb_special_light">#D5D8DC</color>
+    <color name="kb_text_light">#202124</color>
+    <color name="kb_hint_light">#5F6368</color>
+    <color name="kb_accent">#1A73E8</color>
+    <color name="kb_popup_light">#FFFFFF</color>
+
+    <color name="kb_bg_dark">#1F2023</color>
+    <color name="kb_key_dark">#3A3B3F</color>
+    <color name="kb_special_dark">#2C2D31</color>
+    <color name="kb_text_dark">#F1F3F4</color>
+    <color name="kb_hint_dark">#BDC1C6</color>
+    <color name="kb_popup_dark">#3C4043</color>
+</resources>

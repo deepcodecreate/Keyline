@@ -1,0 +1,165 @@
+{
+  "schema": 2,
+  "id": "ru",
+  "name": "Русский",
+  "locale": "ru-RU",
+  "direction": "ltr",
+  "hasShift": true,
+  "digits": "latin",
+  "pageLabels": {
+    "letters": "АБВ"
+  },
+  "spaceLabel": "Русский",
+  "pages": {
+    "main": [
+      [
+        {
+          "label": "й"
+        },
+        {
+          "label": "ц"
+        },
+        {
+          "label": "у"
+        },
+        {
+          "label": "к"
+        },
+        {
+          "label": "е",
+          "popup": [
+            "ё"
+          ]
+        },
+        {
+          "label": "н"
+        },
+        {
+          "label": "г"
+        },
+        {
+          "label": "ш"
+        },
+        {
+          "label": "щ"
+        },
+        {
+          "label": "з"
+        },
+        {
+          "label": "х"
+        }
+      ],
+      [
+        {
+          "label": "ф"
+        },
+        {
+          "label": "ы"
+        },
+        {
+          "label": "в"
+        },
+        {
+          "label": "а"
+        },
+        {
+          "label": "п"
+        },
+        {
+          "label": "р"
+        },
+        {
+          "label": "о"
+        },
+        {
+          "label": "л"
+        },
+        {
+          "label": "д"
+        },
+        {
+          "label": "ж"
+        },
+        {
+          "label": "э"
+        }
+      ],
+      [
+        {
+          "action": "shift",
+          "width": 1.0
+        },
+        {
+          "label": "я"
+        },
+        {
+          "label": "ч"
+        },
+        {
+          "label": "с"
+        },
+        {
+          "label": "м"
+        },
+        {
+          "label": "и"
+        },
+        {
+          "label": "т"
+        },
+        {
+          "label": "ь"
+        },
+        {
+          "label": "б"
+        },
+        {
+          "label": "ю"
+        },
+        {
+          "action": "backspace",
+          "width": 1.0
+        }
+      ]
+    ]
+  },
+  "bottom": [
+    {
+      "action": "to_numbers",
+      "label": "?123",
+      "width": 1.35
+    },
+    {
+      "label": ",",
+      "width": 0.85,
+      "popup": [
+        ";",
+        ":",
+        "!",
+        "?"
+      ]
+    },
+    {
+      "action": "lang",
+      "width": 0.85
+    },
+    {
+      "action": "space",
+      "width": 3.75
+    },
+    {
+      "label": ".",
+      "width": 0.85,
+      "popup": [
+        "…",
+        "?",
+        "!"
+      ]
+    },
+    {
+      "action": "enter",
+      "width": 1.35
+    }
+  ]
+}

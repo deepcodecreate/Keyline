@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="menu_one_hand">Tek el</string>
+    <string name="menu_text_edit">Metni düzenle</string>
+    <string name="menu_floating">Yüzen</string>
+    <string name="menu_theme">Tema</string>
+    <string name="menu_emoji">Emoji</string>
+    <string name="menu_next_language">Sonraki dil</string>
+    <string name="menu_credentials">Parolalar</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="te_home">Baş</string>
+    <string name="te_end">Son</string>
+    <string name="te_select">Seç</string>
+    <string name="te_back">ABC</string>
+    <string name="te_up">Yukarı</string>
+    <string name="te_down">Aşağı</string>
+    <string name="te_left">Sol</string>
+    <string name="te_right">Sağ</string>
+    <string name="cd_select_all">Tümünü seç</string>
+    <string name="cd_cut">Kes</string>
+    <string name="cd_copy">Kopyala</string>
+    <string name="cd_paste">Yapıştır</string>
+</resources>

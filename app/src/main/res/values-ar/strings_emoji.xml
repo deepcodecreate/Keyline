@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="emoji_recents">الأخيرة</string>
+    <string name="emoji_smileys">الوجوه</string>
+    <string name="emoji_people">الأشخاص</string>
+    <string name="emoji_animals">الحيوانات</string>
+    <string name="emoji_food">الطعام</string>
+    <string name="emoji_activity">الأنشطة</string>
+    <string name="emoji_travel">السفر</string>
+    <string name="emoji_objects">الأشياء</string>
+    <string name="emoji_symbols">الرموز</string>
+    <string name="emoji_flags">الأعلام</string>
+    <string name="emoji_empty">لا نتائج</string>
+    <string name="emoji_search_hint">بحث عن إيموجي</string>
+    <string name="back_letters">أبج</string>
+    <string name="cd_backspace">حذف</string>
+</resources>

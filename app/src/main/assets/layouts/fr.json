@@ -1,0 +1,174 @@
+{
+  "schema": 2,
+  "id": "fr",
+  "name": "Français",
+  "locale": "fr-FR",
+  "direction": "ltr",
+  "hasShift": true,
+  "digits": "latin",
+  "pageLabels": {
+    "letters": "ABC"
+  },
+  "spaceLabel": "Français",
+  "pages": {
+    "main": [
+      [
+        {
+          "label": "a",
+          "popup": [
+            "à",
+            "â",
+            "æ"
+          ]
+        },
+        {
+          "label": "z"
+        },
+        {
+          "label": "e",
+          "popup": [
+            "é",
+            "è",
+            "ê",
+            "ë"
+          ]
+        },
+        {
+          "label": "r"
+        },
+        {
+          "label": "t"
+        },
+        {
+          "label": "y"
+        },
+        {
+          "label": "u",
+          "popup": [
+            "ù",
+            "û",
+            "ü"
+          ]
+        },
+        {
+          "label": "i",
+          "popup": [
+            "î",
+            "ï"
+          ]
+        },
+        {
+          "label": "o",
+          "popup": [
+            "ô",
+            "œ"
+          ]
+        },
+        {
+          "label": "p"
+        }
+      ],
+      [
+        {
+          "label": "q"
+        },
+        {
+          "label": "s"
+        },
+        {
+          "label": "d"
+        },
+        {
+          "label": "f"
+        },
+        {
+          "label": "g"
+        },
+        {
+          "label": "h"
+        },
+        {
+          "label": "j"
+        },
+        {
+          "label": "k"
+        },
+        {
+          "label": "l"
+        },
+        {
+          "label": "m"
+        }
+      ],
+      [
+        {
+          "action": "shift",
+          "width": 1.4
+        },
+        {
+          "label": "w"
+        },
+        {
+          "label": "x"
+        },
+        {
+          "label": "c",
+          "popup": [
+            "ç"
+          ]
+        },
+        {
+          "label": "v"
+        },
+        {
+          "label": "b"
+        },
+        {
+          "label": "n"
+        },
+        {
+          "action": "backspace",
+          "width": 1.4
+        }
+      ]
+    ]
+  },
+  "bottom": [
+    {
+      "action": "to_numbers",
+      "label": "?123",
+      "width": 1.35
+    },
+    {
+      "label": ",",
+      "width": 0.85,
+      "popup": [
+        ";",
+        ":",
+        "!",
+        "?"
+      ]
+    },
+    {
+      "action": "lang",
+      "width": 0.85
+    },
+    {
+      "action": "space",
+      "width": 3.75
+    },
+    {
+      "label": ".",
+      "width": 0.85,
+      "popup": [
+        "…",
+        "?",
+        "!"
+      ]
+    },
+    {
+      "action": "enter",
+      "width": 1.35
+    }
+  ]
+}

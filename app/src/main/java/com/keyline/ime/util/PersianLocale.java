@@ -1,0 +1,43 @@
+/*
+ * Copyright 2026 deepcodecreate
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+package com.keyline.ime.util;
+
+import android.content.Context;
+import android.content.res.Configuration;
+
+import java.util.Locale;
+
+public final class PersianLocale {
+    private static final Locale LOCALE = Locale.forLanguageTag("fa");
+
+    private PersianLocale() {}
+
+    public static Context wrapKeepingSystemDirection(Context base) {
+        Configuration original = base.getResources().getConfiguration();
+        Configuration configuration = new Configuration(original);
+        configuration.setLocale(LOCALE);
+        configuration.setLayoutDirection(original.getLocales().get(0));
+        return base.createConfigurationContext(configuration);
+    }
+
+    public static Context wrap(Context base) {
+        Configuration configuration = new Configuration(base.getResources().getConfiguration());
+        configuration.setLocale(LOCALE);
+        configuration.setLayoutDirection(LOCALE);
+        return base.createConfigurationContext(configuration);
+    }
+}

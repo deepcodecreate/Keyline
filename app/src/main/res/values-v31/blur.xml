@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Keyline.DialogOverlay" parent="ThemeOverlay.Keyline.Dialog">
+        <item name="android:windowBlurBehindEnabled">true</item>
+        <item name="android:windowBlurBehindRadius">28dp</item>
+        <item name="android:windowBackgroundBlurRadius">36dp</item>
+        <item name="android:backgroundDimAmount">0.18</item>
+    </style>
+</resources>

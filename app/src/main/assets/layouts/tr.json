@@ -1,0 +1,165 @@
+{
+  "schema": 2,
+  "id": "tr",
+  "name": "Türkçe",
+  "locale": "tr-TR",
+  "direction": "ltr",
+  "hasShift": true,
+  "digits": "latin",
+  "pageLabels": {
+    "letters": "ABC"
+  },
+  "spaceLabel": "Türkçe",
+  "pages": {
+    "main": [
+      [
+        {
+          "label": "q"
+        },
+        {
+          "label": "w"
+        },
+        {
+          "label": "e"
+        },
+        {
+          "label": "r"
+        },
+        {
+          "label": "t"
+        },
+        {
+          "label": "y"
+        },
+        {
+          "label": "u"
+        },
+        {
+          "label": "ı"
+        },
+        {
+          "label": "o"
+        },
+        {
+          "label": "p"
+        },
+        {
+          "label": "ğ"
+        },
+        {
+          "label": "ü"
+        }
+      ],
+      [
+        {
+          "label": "a"
+        },
+        {
+          "label": "s"
+        },
+        {
+          "label": "d"
+        },
+        {
+          "label": "f"
+        },
+        {
+          "label": "g"
+        },
+        {
+          "label": "h"
+        },
+        {
+          "label": "j"
+        },
+        {
+          "label": "k"
+        },
+        {
+          "label": "l"
+        },
+        {
+          "label": "ş"
+        },
+        {
+          "label": "i"
+        }
+      ],
+      [
+        {
+          "action": "shift",
+          "width": 1.4
+        },
+        {
+          "label": "z"
+        },
+        {
+          "label": "x"
+        },
+        {
+          "label": "c"
+        },
+        {
+          "label": "v"
+        },
+        {
+          "label": "b"
+        },
+        {
+          "label": "n"
+        },
+        {
+          "label": "m"
+        },
+        {
+          "label": "ö"
+        },
+        {
+          "label": "ç"
+        },
+        {
+          "action": "backspace",
+          "width": 1.4
+        }
+      ]
+    ]
+  },
+  "bottom": [
+    {
+      "action": "to_numbers",
+      "label": "?123",
+      "width": 1.35
+    },
+    {
+      "label": ",",
+      "width": 0.85,
+      "popup": [
+        ";",
+        ":",
+        "!",
+        "?"
+      ]
+    },
+    {
+      "action": "lang",
+      "width": 0.85
+    },
+    {
+      "action": "space",
+      "width": 3.75
+    },
+    {
+      "label": ".",
+      "width": 0.85,
+      "popup": [
+        "…",
+        "?",
+        "!"
+      ]
+    },
+    {
+      "action": "enter",
+      "width": 1.35
+    }
+  ]
+}

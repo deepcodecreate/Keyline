@@ -1,0 +1,403 @@
+{
+  "schema": 2,
+  "id": "ar",
+  "name": "العربية",
+  "locale": "ar",
+  "direction": "rtl",
+  "hasShift": true,
+  "spaceLabel": "العربية",
+  "digits": "arabic",
+  "pageLabels": {
+    "letters": "أبج",
+    "numbers": "١٢٣",
+    "symbols": "=\\<",
+    "symbols2": "=\\<"
+  },
+  "pages": {
+    "main": [
+      [
+        {
+          "label": "ض",
+          "hint": "١",
+          "popup": [
+            "١",
+            "1"
+          ]
+        },
+        {
+          "label": "ص",
+          "hint": "٢",
+          "popup": [
+            "٢",
+            "2"
+          ]
+        },
+        {
+          "label": "ث",
+          "hint": "٣",
+          "popup": [
+            "٣",
+            "3"
+          ]
+        },
+        {
+          "label": "ق",
+          "hint": "٤",
+          "popup": [
+            "٤",
+            "4"
+          ]
+        },
+        {
+          "label": "ف",
+          "hint": "٥",
+          "popup": [
+            "٥",
+            "5"
+          ]
+        },
+        {
+          "label": "غ",
+          "hint": "٦",
+          "popup": [
+            "٦",
+            "6"
+          ]
+        },
+        {
+          "label": "ع",
+          "hint": "٧",
+          "popup": [
+            "٧",
+            "7"
+          ]
+        },
+        {
+          "label": "ه",
+          "hint": "٨",
+          "popup": [
+            "٨",
+            "8"
+          ]
+        },
+        {
+          "label": "خ",
+          "hint": "٩",
+          "popup": [
+            "٩",
+            "9"
+          ]
+        },
+        {
+          "label": "ح",
+          "hint": "٠",
+          "popup": [
+            "٠",
+            "0"
+          ]
+        },
+        {
+          "label": "ج"
+        },
+        {
+          "label": "د"
+        }
+      ],
+      [
+        {
+          "label": "ش"
+        },
+        {
+          "label": "س"
+        },
+        {
+          "label": "ي"
+        },
+        {
+          "label": "ب"
+        },
+        {
+          "label": "ل"
+        },
+        {
+          "label": "ا",
+          "popup": [
+            "أ",
+            "إ",
+            "آ"
+          ]
+        },
+        {
+          "label": "ت"
+        },
+        {
+          "label": "ن"
+        },
+        {
+          "label": "م"
+        },
+        {
+          "label": "ك"
+        },
+        {
+          "label": "ط"
+        }
+      ],
+      [
+        {
+          "action": "shift",
+          "width": 1.0
+        },
+        {
+          "label": "ئ"
+        },
+        {
+          "label": "ء"
+        },
+        {
+          "label": "ؤ"
+        },
+        {
+          "label": "ر"
+        },
+        {
+          "label": "لا"
+        },
+        {
+          "label": "ى"
+        },
+        {
+          "label": "ة"
+        },
+        {
+          "label": "و"
+        },
+        {
+          "label": "ز"
+        },
+        {
+          "label": "ظ"
+        },
+        {
+          "action": "backspace",
+          "width": 1.0
+        }
+      ]
+    ],
+    "numbers": [
+      [
+        {
+          "label": "١",
+          "popup": [
+            "1"
+          ]
+        },
+        {
+          "label": "٢",
+          "popup": [
+            "2"
+          ]
+        },
+        {
+          "label": "٣",
+          "popup": [
+            "3"
+          ]
+        },
+        {
+          "label": "٤",
+          "popup": [
+            "4"
+          ]
+        },
+        {
+          "label": "٥",
+          "popup": [
+            "5"
+          ]
+        },
+        {
+          "label": "٦",
+          "popup": [
+            "6"
+          ]
+        },
+        {
+          "label": "٧",
+          "popup": [
+            "7"
+          ]
+        },
+        {
+          "label": "٨",
+          "popup": [
+            "8"
+          ]
+        },
+        {
+          "label": "٩",
+          "popup": [
+            "9"
+          ]
+        },
+        {
+          "label": "٠",
+          "popup": [
+            "0"
+          ]
+        }
+      ],
+      [
+        {
+          "label": "@"
+        },
+        {
+          "label": "#"
+        },
+        {
+          "label": "$"
+        },
+        {
+          "label": "٪",
+          "popup": [
+            "%"
+          ]
+        },
+        {
+          "label": "&"
+        },
+        {
+          "label": "-"
+        },
+        {
+          "label": "+"
+        },
+        {
+          "label": "("
+        },
+        {
+          "label": ")"
+        },
+        {
+          "label": "/"
+        }
+      ],
+      [
+        {
+          "action": "to_symbols",
+          "label": "=\\<",
+          "width": 1.35
+        },
+        {
+          "label": "*"
+        },
+        {
+          "label": "«"
+        },
+        {
+          "label": "»"
+        },
+        {
+          "label": ":"
+        },
+        {
+          "label": "؛"
+        },
+        {
+          "label": "!"
+        },
+        {
+          "label": "؟",
+          "popup": [
+            "?"
+          ]
+        },
+        {
+          "action": "backspace",
+          "width": 1.35
+        }
+      ]
+    ]
+  },
+  "bottom": [
+    {
+      "action": "to_numbers",
+      "label": "١٢٣",
+      "width": 1.35
+    },
+    {
+      "label": "،",
+      "popup": [
+        "؛",
+        ":",
+        "!",
+        "؟"
+      ],
+      "width": 0.75
+    },
+    {
+      "action": "lang",
+      "width": 0.75
+    },
+    {
+      "action": "space",
+      "width": 3.3
+    },
+    {
+      "label": ".",
+      "width": 0.75,
+      "popup": [
+        "…",
+        "؟",
+        "!"
+      ]
+    },
+    {
+      "label": "؟",
+      "width": 0.75,
+      "popup": [
+        "!",
+        "؛"
+      ]
+    },
+    {
+      "action": "enter",
+      "width": 1.35
+    }
+  ],
+  "bottomNumbers": [
+    {
+      "action": "to_letters",
+      "label": "أبج",
+      "width": 1.35
+    },
+    {
+      "label": "،",
+      "width": 0.75
+    },
+    {
+      "action": "lang",
+      "width": 0.75
+    },
+    {
+      "action": "space",
+      "width": 3.3
+    },
+    {
+      "label": ".",
+      "width": 0.75
+    },
+    {
+      "label": "؟",
+      "width": 0.75,
+      "popup": [
+        "!",
+        "؛"
+      ]
+    },
+    {
+      "action": "enter",
+      "width": 1.35
+    }
+  ]
+}
